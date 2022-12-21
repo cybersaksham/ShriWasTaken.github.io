@@ -11,13 +11,13 @@ const Navbar = ()=>{
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav ms-auto brand-desc text-uppercase">
           <li className="nav-item active">
-            <a className="nav-link " style={{color:"white"}} href="/">Home</a>
+            <a className="nav-link " style={{color:"white"}} href="./">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link"  style={{color:"white"}} href="/projects">Projects</a>
+            <a className="nav-link"  style={{color:"white"}} href="./projects">Projects</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" style={{color:"white"}} href="/contact">Contact</a>
+            <a className="nav-link" style={{color:"white"}} href="./contact">Contact</a>
    </li>
         </ul>
       </div>
