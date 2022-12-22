@@ -13,7 +13,7 @@ code {
 }
 
 .brand-name{
-  font-size: 40px;
+  font-size: 2.9282576866764276vw;
   font-family: 'Bebas Neue', cursive;
   text-decoration: none;
 
@@ -22,11 +22,21 @@ code {
 .brand-desc{
   font-family: 'Martian Mono', monospace;
   color:white;
-  font-size:"30px";
+  font-size:30px;
 }
 
 #nav1{
   background-color:black; /*whichever you want*/
     opacity: 0.7; 
     filter:(opacity=50);  
+}
+
+.white-sucker{
+  color:white;
+}
+
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
 }

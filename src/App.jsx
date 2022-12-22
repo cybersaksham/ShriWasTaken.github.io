@@ -14,11 +14,12 @@ const App = () => {
         <>
             <style>{'body { background-color: black; }'}</style>
                 <Navbar/>
+                
                 <Router>
                     <Routes>
-                        <Route exact path="/" element={ <Home />}/>
-                        <Route exact path="/Contact" element = { <Contact />}/>
-                        <Route exact path="/Projects" element = { <Projects/>}/>
+                        <Route path="/" element={<Home/>}/>
+                        <Route exact path="/contact" element = { <Contact/>}/>
+                        <Route exact path="/projects" element = { <Projects/>}/>
                     </Routes>
                 </Router>
         </>
