@@ -13,7 +13,7 @@ code {
 }
 
 .brand-name{
-  font-size: 2.9282576866764276vw;
+  font-size: 30px;
   font-family: 'Bebas Neue', cursive;
   text-decoration: none;
 
@@ -22,7 +22,7 @@ code {
 .brand-desc{
   font-family: 'Martian Mono', monospace;
   color:white;
-  font-size:30px;
+  font-size:20px;
 }
 
 #nav1{
