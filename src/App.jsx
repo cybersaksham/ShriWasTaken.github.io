@@ -12,7 +12,7 @@ const App = () => {
   return (
     <>
       <style>{"body { background-color: black; }"}</style>
-      <Router>
+      <Router basename={window.location.pathname || ""}>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
