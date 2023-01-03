@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShriWasTaken.github.io/static/css/main.89d7dc9d.css",
-    "main.js": "/ShriWasTaken.github.io/static/js/main.627bce4f.js",
+    "main.js": "/ShriWasTaken.github.io/static/js/main.15f45032.js",
     "index.html": "/ShriWasTaken.github.io/index.html",
     "main.89d7dc9d.css.map": "/ShriWasTaken.github.io/static/css/main.89d7dc9d.css.map",
-    "main.627bce4f.js.map": "/ShriWasTaken.github.io/static/js/main.627bce4f.js.map"
+    "main.15f45032.js.map": "/ShriWasTaken.github.io/static/js/main.15f45032.js.map"
   },
   "entrypoints": [
     "static/css/main.89d7dc9d.css",
-    "static/js/main.627bce4f.js"
+    "static/js/main.15f45032.js"
   ]
 }
