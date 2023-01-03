@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shriwastaken/static/css/main.89d7dc9d.css",
-    "main.js": "/shriwastaken/static/js/main.627bce4f.js",
-    "index.html": "/shriwastaken/index.html",
-    "main.89d7dc9d.css.map": "/shriwastaken/static/css/main.89d7dc9d.css.map",
-    "main.627bce4f.js.map": "/shriwastaken/static/js/main.627bce4f.js.map"
+    "main.css": "/ShriWasTaken.github.io/static/css/main.89d7dc9d.css",
+    "main.js": "/ShriWasTaken.github.io/static/js/main.627bce4f.js",
+    "index.html": "/ShriWasTaken.github.io/index.html",
+    "main.89d7dc9d.css.map": "/ShriWasTaken.github.io/static/css/main.89d7dc9d.css.map",
+    "main.627bce4f.js.map": "/ShriWasTaken.github.io/static/js/main.627bce4f.js.map"
   },
   "entrypoints": [
     "static/css/main.89d7dc9d.css",
