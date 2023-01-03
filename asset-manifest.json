@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shriwastaken/static/css/main.89d7dc9d.css",
-    "main.js": "/shriwastaken/static/js/main.085f80f4.js",
+    "main.js": "/shriwastaken/static/js/main.f7389910.js",
     "index.html": "/shriwastaken/index.html",
     "main.89d7dc9d.css.map": "/shriwastaken/static/css/main.89d7dc9d.css.map",
-    "main.085f80f4.js.map": "/shriwastaken/static/js/main.085f80f4.js.map"
+    "main.f7389910.js.map": "/shriwastaken/static/js/main.f7389910.js.map"
   },
   "entrypoints": [
     "static/css/main.89d7dc9d.css",
-    "static/js/main.085f80f4.js"
+    "static/js/main.f7389910.js"
   ]
 }
